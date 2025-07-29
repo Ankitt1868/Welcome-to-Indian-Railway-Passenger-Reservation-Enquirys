@@ -3,7 +3,7 @@
 This is simple template of IRCTC for booking the reservation ticket.... it's made by using frontend development.
 
 # Demo Link 
-(https://ankitt1868.github.io/Welcome-to-Indian-Railway-Passenger-Reservation-Enquirys/)
+Check out the live demo [here](https://ankitt1868.github.io/Welcome-to-Indian-Railway-Passenger-Reservation-Enquirys/)
 
 # Screenshots
 
